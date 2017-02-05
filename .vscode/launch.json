@@ -10,7 +10,7 @@
             "request": "launch",
             "name": "Launch Program",
             "program": "${workspaceRoot}/node_modules/lite-server/bin/lite-server",
-            "cwd": "${workspaceRoot}"
+            "cwd": "${workspaceRoot}/src"
         },
         {
             "type": "node",
