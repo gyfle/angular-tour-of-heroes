@@ -23,6 +23,6 @@ export class AppComponent {
   title = "tour of heroes";
   hero: Hero = {
     id: 1,
-    name: "Windstorm2"
+    name: "Windstorm"
   }
 }
